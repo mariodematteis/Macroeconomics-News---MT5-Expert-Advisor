@@ -1,0 +1,9 @@
+name: MacroeconomicsNews
+channels:
+  - default
+  - conda-forge
+dependencies:
+  - python>=3.10,<3.11
+  - ipython
+  - ipykernel
+  - pip
